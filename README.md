@@ -6,7 +6,7 @@
   
   * Get sources in local folder
   ```
-  $ git clone https://github.com/atanasster/grommet-nextjs.git
+  $ git clone https://github.com/martin-stoyanov/nextjs_grommetv2_horizontalworking.git
   ```
 
   * Move to your local folder
